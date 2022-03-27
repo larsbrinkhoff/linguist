@@ -503,6 +503,15 @@ Batchfile:
   ace_mode: batchfile
   color: "#C1F12E"
   language_id: 29
+Batchfile:
+  type: programming
+  extensions:
+  - ".bcp"
+  - ".bcpl"
+  tm_scope: source.bcpl
+  ace_mode: text
+  color: "#C1F12E"
+  language_id: 29
 Beef:
   type: programming
   color: "#a52f4e"
